@@ -4,5 +4,3 @@
 
 - 👨 Chinese 🇨🇳
 - 💗 Programming、Iron Man
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yanzengyong&column=7&margin-w=10&no-bg=true)](https://github.com/Yanzengyong/Yanzengyong)
